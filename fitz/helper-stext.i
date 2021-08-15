@@ -13,7 +13,7 @@
 static int small_glyph_heights = 0;
 
 // Switch for returning fontnames including subset prefix
-static int subset_fontnames = 0;
+static int subset_fontnames = 1;
 
 // Unset ascender / descender corrections
 static int skip_quad_corrections = 0;
